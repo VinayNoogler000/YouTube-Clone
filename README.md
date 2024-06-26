@@ -32,11 +32,11 @@ To view the project locally:
    ```bash
    git clone https://github.com/VinayNoogler000/YouTube-Homepage-Clone.git
    ```
-2. Open index.html in your preferred web browser.
+2. Open `index.html` in your preferred web browser.
 
 ## License:
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/VinayNoogler000/YouTube-Clone/blob/main/LICENSE.txt) file for more details.
 
 ## Feedback and Contribution
 
