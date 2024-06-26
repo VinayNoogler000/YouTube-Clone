@@ -73,6 +73,7 @@ header {
     width: 100%;
     background-color: white;
     position: fixed;
+    z-index: 9;
 }
 
 nav {
@@ -184,9 +185,12 @@ img {
 
 .video-add-icon,
 .bell-icon {
-    min-width: 25px;
-    height: auto;
     padding: 7px;
+}
+
+.video-add-icon img, .bell-icon img {
+    min-width: 25px;
+    min-height: 25px;
 }
 
 .bell-icon {
@@ -207,8 +211,10 @@ img {
 }
 
 .profile {
-    width: 32px;
-    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+    max-width: 32px;
+    max-height: 32px;
     border-radius: 50%;
     margin-bottom: 2px;
 }
